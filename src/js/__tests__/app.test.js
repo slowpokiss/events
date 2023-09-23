@@ -1,4 +1,4 @@
-import print from "./apptst";
+import print from "../apptst";
 
 test("Пример теста", () => {
   const result = print("123");
