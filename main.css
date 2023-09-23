@@ -1,0 +1,1 @@
+*{box-sizing:border-box;margin:0;padding:0}.main_field{display:flex;justify-content:center;margin-top:20px}.field,.list_of_goblins{border:2px solid #000}.field{display:block;height:130px;width:130px}.field-line{display:flex;height:130px;justify-content:start;width:520px}.goblins-counter{text-align:center;width:auto}.counter{font-family:Roboto,Arial,sans-serif;font-size:60px}
